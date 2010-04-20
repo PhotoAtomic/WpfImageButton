@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EyeOpen.Wpf.UI", "WpfImageButton\Src\Wpf.UI\EyeOpen.Wpf.UI.csproj", "{8E3FB4F2-BBAE-42DA-A137-CF83B40D72C0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EyeOpen.Wpf.UI.Controls", "CodeBase\Src\Wpf.UI.Controls\EyeOpen.Wpf.UI.Controls.csproj", "{1793D91D-C6BC-4E75-A85F-76CF71874AD3}"
