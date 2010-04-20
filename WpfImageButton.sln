@@ -22,6 +22,20 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{B6C9793C-BF30-4E80-BFA5-E54F2180563C}"
 EndProject
 Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs06.codeplex.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = WpfImageButton\\Src\\Wpf.UI\\EyeOpen.Wpf.UI.csproj
+		SccProjectTopLevelParentUniqueName1 = WpfImageButton.sln
+		SccProjectName1 = WpfImageButton/Src/Wpf.UI
+		SccLocalPath1 = WpfImageButton\\Src\\Wpf.UI
+		SccProjectUniqueName2 = CodeBase\\Src\\Wpf.UI.Controls\\EyeOpen.Wpf.UI.Controls.csproj
+		SccProjectTopLevelParentUniqueName2 = WpfImageButton.sln
+		SccProjectName2 = CodeBase/Src/Wpf.UI.Controls
+		SccLocalPath2 = CodeBase\\Src\\Wpf.UI.Controls
+	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
@@ -40,13 +54,13 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{1B4DFA51-43BF-4517-A8DF-A31BDA38BB03} = {93BBDA40-6942-4BE9-8C30-0D5C8B262F94}
 		{CC7BF132-932D-40BF-8CBE-2E37E16AA3A6} = {F6702967-4314-4AE9-9E34-105E4AA60C9B}
+		{1B4DFA51-43BF-4517-A8DF-A31BDA38BB03} = {93BBDA40-6942-4BE9-8C30-0D5C8B262F94}
 		{805F57DF-B919-4693-99A4-76ACA76D6A2B} = {1B4DFA51-43BF-4517-A8DF-A31BDA38BB03}
 		{4C2349C0-A6EC-43D5-B8F4-C74A6BD220CC} = {CC7BF132-932D-40BF-8CBE-2E37E16AA3A6}
 		{43B2A6E7-6024-4A27-8FFC-5CD8E8BF1639} = {805F57DF-B919-4693-99A4-76ACA76D6A2B}
-		{1793D91D-C6BC-4E75-A85F-76CF71874AD3} = {43B2A6E7-6024-4A27-8FFC-5CD8E8BF1639}
 		{B6C9793C-BF30-4E80-BFA5-E54F2180563C} = {4C2349C0-A6EC-43D5-B8F4-C74A6BD220CC}
+		{1793D91D-C6BC-4E75-A85F-76CF71874AD3} = {43B2A6E7-6024-4A27-8FFC-5CD8E8BF1639}
 		{8E3FB4F2-BBAE-42DA-A137-CF83B40D72C0} = {B6C9793C-BF30-4E80-BFA5-E54F2180563C}
 	EndGlobalSection
 EndGlobal
